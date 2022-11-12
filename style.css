@@ -1,0 +1,62 @@
+#Superior{
+    background-color: coral;
+    border: 2px solid;
+    margin: 13px;
+    padding: 30px;
+}
+
+.piedepagina{
+    text-align: center;
+    margin-bottom: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.ONE{
+    background-color: #B0E0E6;
+}
+
+.TWO{
+    background-color: #87CEFA;
+}
+.table{
+    border: 2px solid;
+}
+.img1{
+    float: left;
+    margin-top: -17px;
+    margin-left: -20px;
+}
+.Título{
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 60px;
+}
+
+@media screen and (max-width: 800px){
+
+    .img1{
+        display: none;
+    }   
+}
+
+
+@media screen and (min-width: 801px){
+
+    .img2{
+        display: none;
+    }
+}
+
+.Contenido {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.fondo{
+    background-color: #F0E68C;
+}
+
+
